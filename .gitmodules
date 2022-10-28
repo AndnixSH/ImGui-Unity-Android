@@ -1,0 +1,12 @@
+[submodule "app/src/main/cpp/LIBS/imgui"]
+	path = app/src/main/cpp/LIBS/imgui
+	url = https://github.com/ocornut/imgui.git
+[submodule "app/src/main/cpp/LIBS/BNM"]
+	path = app/src/main/cpp/LIBS/BNM
+	url = https://github.com/AKNoryx28/ByNameModding.git
+[submodule "app/src/main/cpp/LIBS/And64InlineHook"]
+	path = app/src/main/cpp/LIBS/And64InlineHook
+	url = https://github.com/Rprop/And64InlineHook.git
+[submodule "app/src/main/cpp/LIBS/Dobby"]
+	path = app/src/main/cpp/LIBS/Dobby
+	url = https://github.com/jmpews/Dobby
