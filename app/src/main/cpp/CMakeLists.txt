@@ -21,6 +21,7 @@ option(BUILD_TEST "Build test" OFF)
 include_directories(
         LIBS/imgui LIBS/imgui/backends LIBS/KittyMemory
         LIBS/BNM LIBS/Substrate LIBS/And64InlineHook
+        Misc
 )
 
 add_library(
