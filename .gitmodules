@@ -1,0 +1,12 @@
+[submodule "And64InlineHook"]
+	path = And64InlineHook
+	url = .\\app\\src\\main\\cpp\\LIBS\\And64InlineHook\\
+[submodule "BNM"]
+	path = BNM
+	url = .\\app\\src\\main\\cpp\\LIBS\\BNM\\
+[submodule "Dobby"]
+	path = Dobby
+	url = .\\app\\src\\main\\cpp\\LIBS\\Dobby\\
+[submodule "imgui"]
+	path = imgui
+	url = .\\app\\src\\main\\cpp\\LIBS\\imgui\\

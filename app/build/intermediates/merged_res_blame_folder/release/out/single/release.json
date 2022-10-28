@@ -1,0 +1,70 @@
+[
+    {
+        "merged": "id.akn.imguiunitytouch.app-merged_res-5:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "id.akn.imguiunitytouch.app-main-6:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "id.akn.imguiunitytouch.app-merged_res-5:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "id.akn.imguiunitytouch.app-main-6:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "id.akn.imguiunitytouch.app-merged_res-5:/drawable_ic_launcher_background.xml.flat",
+        "source": "id.akn.imguiunitytouch.app-main-6:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "id.akn.imguiunitytouch.app-merged_res-5:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "id.akn.imguiunitytouch.app-main-6:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "id.akn.imguiunitytouch.app-merged_res-5:/xml_data_extraction_rules.xml.flat",
+        "source": "id.akn.imguiunitytouch.app-main-6:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "id.akn.imguiunitytouch.app-merged_res-5:/layout_activity_main.xml.flat",
+        "source": "id.akn.imguiunitytouch.app-main-6:/layout/activity_main.xml"
+    },
+    {
+        "merged": "id.akn.imguiunitytouch.app-merged_res-5:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "id.akn.imguiunitytouch.app-main-6:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "id.akn.imguiunitytouch.app-merged_res-5:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "id.akn.imguiunitytouch.app-main-6:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "id.akn.imguiunitytouch.app-merged_res-5:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "id.akn.imguiunitytouch.app-main-6:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "id.akn.imguiunitytouch.app-merged_res-5:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "id.akn.imguiunitytouch.app-main-6:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "id.akn.imguiunitytouch.app-merged_res-5:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "id.akn.imguiunitytouch.app-main-6:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "id.akn.imguiunitytouch.app-merged_res-5:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "id.akn.imguiunitytouch.app-main-6:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "id.akn.imguiunitytouch.app-merged_res-5:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "id.akn.imguiunitytouch.app-main-6:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "id.akn.imguiunitytouch.app-merged_res-5:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "id.akn.imguiunitytouch.app-main-6:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "id.akn.imguiunitytouch.app-merged_res-5:/xml_backup_rules.xml.flat",
+        "source": "id.akn.imguiunitytouch.app-main-6:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "id.akn.imguiunitytouch.app-merged_res-5:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "id.akn.imguiunitytouch.app-main-6:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "id.akn.imguiunitytouch.app-merged_res-5:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "id.akn.imguiunitytouch.app-pngs-0:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    }
+]

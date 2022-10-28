@@ -1,0 +1,43 @@
+{
+    "logs": [
+        {
+            "outputFile": "id.akn.imguiunitytouch.app-mergeReleaseResources-3:/values/values.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Admin\\AndroidStudioProjects\\ImGuiUnityTouch\\app\\src\\main\\res\\values\\colors.xml",
+                    "from": {
+                        "startLines": "7,2,3,4,5,6,8",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "286,55,102,149,196,241,328",
+                        "endColumns": "41,46,46,46,44,44,41",
+                        "endOffsets": "323,97,144,191,236,281,365"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "55,97,144,191,238,283,328",
+                        "endColumns": "41,46,46,46,44,44,41",
+                        "endOffsets": "92,139,186,233,278,323,365"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Admin\\AndroidStudioProjects\\ImGuiUnityTouch\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "1",
+                        "startColumns": "4",
+                        "startOffsets": "16",
+                        "endColumns": "54",
+                        "endOffsets": "66"
+                    },
+                    "to": {
+                        "startLines": "9",
+                        "startColumns": "4",
+                        "startOffsets": "370",
+                        "endColumns": "54",
+                        "endOffsets": "420"
+                    }
+                }
+            ]
+        }
+    ]
+}

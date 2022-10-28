@@ -1,0 +1,156 @@
+[
+  {
+    "level_": 0,
+    "message_": "Start JSON generation. Platform version: 21 min SDK version: armeabi-v7a",
+    "file_": "C:\\Users\\Admin\\AndroidStudioProjects\\ImGuiUnityTouch\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag_": "debug|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1297213945
+  },
+  {
+    "level_": 0,
+    "message_": "rebuilding JSON C:\\Users\\Admin\\AndroidStudioProjects\\ImGuiUnityTouch\\app\\.cxx\\Debug\\7062e4v2\\armeabi-v7a\\android_gradle_build.json due to:",
+    "file_": "C:\\Users\\Admin\\AndroidStudioProjects\\ImGuiUnityTouch\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag_": "debug|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -2086994638
+  },
+  {
+    "level_": 0,
+    "message_": "- a dependent build file changed",
+    "file_": "C:\\Users\\Admin\\AndroidStudioProjects\\ImGuiUnityTouch\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag_": "debug|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1603804388
+  },
+  {
+    "level_": 0,
+    "message_": "  - C:\\Users\\Admin\\AndroidStudioProjects\\ImGuiUnityTouch\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "file_": "C:\\Users\\Admin\\AndroidStudioProjects\\ImGuiUnityTouch\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag_": "debug|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1564422729
+  },
+  {
+    "level_": 0,
+    "message_": "keeping json folder \u0027C:\\Users\\Admin\\AndroidStudioProjects\\ImGuiUnityTouch\\app\\.cxx\\Debug\\7062e4v2\\armeabi-v7a\u0027 but regenerating project",
+    "file_": "C:\\Users\\Admin\\AndroidStudioProjects\\ImGuiUnityTouch\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag_": "debug|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 231591540
+  },
+  {
+    "level_": 0,
+    "message_": "executing cmake Executable : D:\\Android\\Sdks\\Sdk-win64\\cmake\\3.18.1\\bin\\cmake.exe\narguments : \n-HC:\\Users\\Admin\\AndroidStudioProjects\\ImGuiUnityTouch\\app\\src\\main\\cpp\n-DCMAKE_SYSTEM_NAME\u003dAndroid\n-DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON\n-DCMAKE_SYSTEM_VERSION\u003d21\n-DANDROID_PLATFORM\u003dandroid-21\n-DANDROID_ABI\u003darmeabi-v7a\n-DCMAKE_ANDROID_ARCH_ABI\u003darmeabi-v7a\n-DANDROID_NDK\u003dD:\\Android\\Sdks\\Sdk-win64\\ndk\\21.4.7075529\n-DCMAKE_ANDROID_NDK\u003dD:\\Android\\Sdks\\Sdk-win64\\ndk\\21.4.7075529\n-DCMAKE_TOOLCHAIN_FILE\u003dD:\\Android\\Sdks\\Sdk-win64\\ndk\\21.4.7075529\\build\\cmake\\android.toolchain.cmake\n-DCMAKE_MAKE_PROGRAM\u003dD:\\Android\\Sdks\\Sdk-win64\\cmake\\3.18.1\\bin\\ninja.exe\n-DCMAKE_CXX_FLAGS\u003d-std\u003dc++17\n-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003dC:\\Users\\Admin\\AndroidStudioProjects\\ImGuiUnityTouch\\app\\build\\intermediates\\cxx\\Debug\\7062e4v2\\obj\\armeabi-v7a\n-DCMAKE_RUNTIME_OUTPUT_DIRECTORY\u003dC:\\Users\\Admin\\AndroidStudioProjects\\ImGuiUnityTouch\\app\\build\\intermediates\\cxx\\Debug\\7062e4v2\\obj\\armeabi-v7a\n-DCMAKE_BUILD_TYPE\u003dDebug\n-BC:\\Users\\Admin\\AndroidStudioProjects\\ImGuiUnityTouch\\app\\.cxx\\Debug\\7062e4v2\\armeabi-v7a\n-GNinja\njvmArgs : \n\n",
+    "file_": "C:\\Users\\Admin\\AndroidStudioProjects\\ImGuiUnityTouch\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag_": "debug|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 917516436
+  },
+  {
+    "level_": 0,
+    "message_": "Executable : D:\\Android\\Sdks\\Sdk-win64\\cmake\\3.18.1\\bin\\cmake.exe\narguments : \n-HC:\\Users\\Admin\\AndroidStudioProjects\\ImGuiUnityTouch\\app\\src\\main\\cpp\n-DCMAKE_SYSTEM_NAME\u003dAndroid\n-DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON\n-DCMAKE_SYSTEM_VERSION\u003d21\n-DANDROID_PLATFORM\u003dandroid-21\n-DANDROID_ABI\u003darmeabi-v7a\n-DCMAKE_ANDROID_ARCH_ABI\u003darmeabi-v7a\n-DANDROID_NDK\u003dD:\\Android\\Sdks\\Sdk-win64\\ndk\\21.4.7075529\n-DCMAKE_ANDROID_NDK\u003dD:\\Android\\Sdks\\Sdk-win64\\ndk\\21.4.7075529\n-DCMAKE_TOOLCHAIN_FILE\u003dD:\\Android\\Sdks\\Sdk-win64\\ndk\\21.4.7075529\\build\\cmake\\android.toolchain.cmake\n-DCMAKE_MAKE_PROGRAM\u003dD:\\Android\\Sdks\\Sdk-win64\\cmake\\3.18.1\\bin\\ninja.exe\n-DCMAKE_CXX_FLAGS\u003d-std\u003dc++17\n-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003dC:\\Users\\Admin\\AndroidStudioProjects\\ImGuiUnityTouch\\app\\build\\intermediates\\cxx\\Debug\\7062e4v2\\obj\\armeabi-v7a\n-DCMAKE_RUNTIME_OUTPUT_DIRECTORY\u003dC:\\Users\\Admin\\AndroidStudioProjects\\ImGuiUnityTouch\\app\\build\\intermediates\\cxx\\Debug\\7062e4v2\\obj\\armeabi-v7a\n-DCMAKE_BUILD_TYPE\u003dDebug\n-BC:\\Users\\Admin\\AndroidStudioProjects\\ImGuiUnityTouch\\app\\.cxx\\Debug\\7062e4v2\\armeabi-v7a\n-GNinja\njvmArgs : \n\n",
+    "file_": "C:\\Users\\Admin\\AndroidStudioProjects\\ImGuiUnityTouch\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag_": "debug|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -925085165
+  },
+  {
+    "level_": 0,
+    "message_": "Exiting generation of C:\\Users\\Admin\\AndroidStudioProjects\\ImGuiUnityTouch\\app\\.cxx\\Debug\\7062e4v2\\armeabi-v7a\\compile_commands.json.bin normally",
+    "file_": "C:\\Users\\Admin\\AndroidStudioProjects\\ImGuiUnityTouch\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag_": "debug|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1843556810
+  },
+  {
+    "level_": 0,
+    "message_": "done executing cmake",
+    "file_": "C:\\Users\\Admin\\AndroidStudioProjects\\ImGuiUnityTouch\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag_": "debug|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1555288300
+  },
+  {
+    "level_": 0,
+    "message_": "write command file C:\\Users\\Admin\\AndroidStudioProjects\\ImGuiUnityTouch\\app\\.cxx\\Debug\\7062e4v2\\armeabi-v7a\\metadata_generation_command.txt",
+    "file_": "C:\\Users\\Admin\\AndroidStudioProjects\\ImGuiUnityTouch\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag_": "debug|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1020871236
+  },
+  {
+    "level_": 0,
+    "message_": "JSON generation completed without problems",
+    "file_": "C:\\Users\\Admin\\AndroidStudioProjects\\ImGuiUnityTouch\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag_": "debug|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -801605912
+  }
+]

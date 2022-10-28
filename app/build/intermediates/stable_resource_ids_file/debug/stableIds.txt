@@ -1,0 +1,16 @@
+id.akn.imguiunitytouch:xml/backup_rules = 0x7f060000
+id.akn.imguiunitytouch:string/app_name = 0x7f050000
+id.akn.imguiunitytouch:mipmap/ic_launcher = 0x7f040000
+id.akn.imguiunitytouch:drawable/ic_launcher_foreground = 0x7f020002
+id.akn.imguiunitytouch:mipmap/ic_launcher_round = 0x7f040001
+id.akn.imguiunitytouch:drawable/$ic_launcher_foreground__0 = 0x7f020000
+id.akn.imguiunitytouch:color/teal_700 = 0x7f010005
+id.akn.imguiunitytouch:color/purple_700 = 0x7f010003
+id.akn.imguiunitytouch:color/white = 0x7f010006
+id.akn.imguiunitytouch:color/teal_200 = 0x7f010004
+id.akn.imguiunitytouch:drawable/ic_launcher_background = 0x7f020001
+id.akn.imguiunitytouch:color/purple_200 = 0x7f010001
+id.akn.imguiunitytouch:xml/data_extraction_rules = 0x7f060001
+id.akn.imguiunitytouch:color/black = 0x7f010000
+id.akn.imguiunitytouch:color/purple_500 = 0x7f010002
+id.akn.imguiunitytouch:layout/activity_main = 0x7f030000

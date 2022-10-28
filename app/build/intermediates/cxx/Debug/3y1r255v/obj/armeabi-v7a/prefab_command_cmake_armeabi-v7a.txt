@@ -1,0 +1,20 @@
+Executable : null
+arguments : 
+--build-system
+cmake
+--platform
+android
+--abi
+armeabi-v7a
+--os-version
+21
+--stl
+c++_static
+--ndk-version
+21
+--output
+C:\Users\Admin\AndroidStudioProjects\ImGuiUnityTouch\app\.cxx\Debug\3y1r255v\prefab\armeabi-v7a\prefab-configure
+C:\Users\Admin\.gradle\caches\transforms-3\8a09282228721269c39d38f871dabd4f\transformed\curl-7.85.1\prefab
+C:\Users\Admin\.gradle\caches\transforms-3\3df6c67e74538b665dfa9a65233a7c8b\transformed\boringssl-3.0\prefab
+jvmArgs : 
+

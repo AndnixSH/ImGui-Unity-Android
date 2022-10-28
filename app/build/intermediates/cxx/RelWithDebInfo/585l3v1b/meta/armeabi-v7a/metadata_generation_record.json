@@ -1,0 +1,44 @@
+[
+  {
+    "level_": 0,
+    "message_": "Start JSON generation. Platform version: 21 min SDK version: armeabi-v7a",
+    "file_": "C:\\Users\\Admin\\AndroidStudioProjects\\ImGuiUnityTouch\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag_": "release|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 959398988
+  },
+  {
+    "level_": 0,
+    "message_": "JSON \u0027C:\\Users\\Admin\\AndroidStudioProjects\\ImGuiUnityTouch\\app\\.cxx\\RelWithDebInfo\\585l3v1b\\armeabi-v7a\\android_gradle_build.json\u0027 was up-to-date",
+    "file_": "C:\\Users\\Admin\\AndroidStudioProjects\\ImGuiUnityTouch\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag_": "release|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 889182961
+  },
+  {
+    "level_": 0,
+    "message_": "JSON generation completed without problems",
+    "file_": "C:\\Users\\Admin\\AndroidStudioProjects\\ImGuiUnityTouch\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag_": "release|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1455007021
+  }
+]

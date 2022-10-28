@@ -1,0 +1,19 @@
+<lint-module
+    format="1"
+    dir="C:\Users\Admin\AndroidStudioProjects\ImGuiUnityTouch\app"
+    name=":app"
+    type="APP"
+    maven="ImGui Unity Touch:app:"
+    gradle="7.2.2"
+    buildFolder="build"
+    bootClassPath="D:\Android\Sdks\Sdk-win64\platforms\android-32\android.jar;D:\Android\Sdks\Sdk-win64\build-tools\30.0.3\core-lambda-stubs.jar"
+    javaSourceLevel="1.8"
+    compileTarget="android-32"
+    neverShrinking="true">
+  <lintOptions
+      abortOnError="true"
+      absolutePaths="true"
+      checkReleaseBuilds="true"
+      explainIssues="true"/>
+  <variant name="release"/>
+</lint-module>

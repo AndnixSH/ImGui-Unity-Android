@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/And64InlineHook" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/BNM" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Dobby" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/app" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/app/src/main/cpp/BNM" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/app/src/main/cpp/Dobby" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/app/src/main/cpp/LIBS/And64InlineHook" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/app/src/main/cpp/LIBS/BNM" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/app/src/main/cpp/LIBS/Dobby" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/app/src/main/cpp/LIBS/imgui" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/app/src/main/cpp/imgui" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/imgui" vcs="Git" />
+  </component>
+</project>

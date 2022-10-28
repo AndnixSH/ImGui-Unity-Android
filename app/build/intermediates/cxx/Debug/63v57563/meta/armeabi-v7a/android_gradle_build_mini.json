@@ -1,0 +1,61 @@
+{
+  "buildFiles": [
+    "C:\\Users\\Admin\\AndroidStudioProjects\\ImGuiUnityTouch\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "C:\\Users\\Admin\\AndroidStudioProjects\\ImGuiUnityTouch\\app\\src\\main\\cpp\\Dobby\\builtin-plugin\\SymbolResolver\\CMakeLists.txt",
+    "C:\\Users\\Admin\\AndroidStudioProjects\\ImGuiUnityTouch\\app\\src\\main\\cpp\\Dobby\\cmake\\auto_source_group.cmake",
+    "C:\\Users\\Admin\\AndroidStudioProjects\\ImGuiUnityTouch\\app\\src\\main\\cpp\\Dobby\\cmake\\build_environment_check.cmake",
+    "C:\\Users\\Admin\\AndroidStudioProjects\\ImGuiUnityTouch\\app\\src\\main\\cpp\\Dobby\\cmake\\compiler_and_linker.cmake",
+    "C:\\Users\\Admin\\AndroidStudioProjects\\ImGuiUnityTouch\\app\\src\\main\\cpp\\Dobby\\cmake\\Macros.cmake",
+    "C:\\Users\\Admin\\AndroidStudioProjects\\ImGuiUnityTouch\\app\\src\\main\\cpp\\Dobby\\cmake\\Util.cmake",
+    "C:\\Users\\Admin\\AndroidStudioProjects\\ImGuiUnityTouch\\app\\src\\main\\cpp\\Dobby\\cmake\\xcode_generator_helper.cmake",
+    "C:\\Users\\Admin\\AndroidStudioProjects\\ImGuiUnityTouch\\app\\src\\main\\cpp\\Dobby\\CMakeLists.txt",
+    "C:\\Users\\Admin\\AndroidStudioProjects\\ImGuiUnityTouch\\app\\src\\main\\cpp\\Dobby\\external\\logging\\CMakeLists.txt",
+    "C:\\Users\\Admin\\AndroidStudioProjects\\ImGuiUnityTouch\\app\\src\\main\\cpp\\Dobby\\external\\misc-helper\\CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "D:\\Android\\Sdks\\Sdk-win64\\cmake\\3.18.1\\bin\\ninja.exe",
+      "-C",
+      "C:\\Users\\Admin\\AndroidStudioProjects\\ImGuiUnityTouch\\app\\.cxx\\Debug\\63v57563\\armeabi-v7a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "D:\\Android\\Sdks\\Sdk-win64\\cmake\\3.18.1\\bin\\ninja.exe",
+    "-C",
+    "C:\\Users\\Admin\\AndroidStudioProjects\\ImGuiUnityTouch\\app\\.cxx\\Debug\\63v57563\\armeabi-v7a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "logging::@9c6456fefc909ebba7e0": {
+      "artifactName": "logging",
+      "abi": "armeabi-v7a",
+      "output": "C:\\Users\\Admin\\AndroidStudioProjects\\ImGuiUnityTouch\\app\\.cxx\\Debug\\63v57563\\armeabi-v7a\\dobby\\external\\logging\\liblogging.a",
+      "runtimeFiles": []
+    },
+    "dobby::@fb579df6436f49169c19": {
+      "artifactName": "dobby",
+      "abi": "armeabi-v7a",
+      "output": "C:\\Users\\Admin\\AndroidStudioProjects\\ImGuiUnityTouch\\app\\.cxx\\Debug\\63v57563\\armeabi-v7a\\dobby\\libdobby.a",
+      "runtimeFiles": []
+    },
+    "symbol_resolver::@ae8170e007b0dbbeb132": {
+      "artifactName": "symbol_resolver",
+      "abi": "armeabi-v7a",
+      "output": "C:\\Users\\Admin\\AndroidStudioProjects\\ImGuiUnityTouch\\app\\.cxx\\Debug\\63v57563\\armeabi-v7a\\dobby\\builtin-plugin\\SymbolResolver\\libsymbol_resolver.a",
+      "runtimeFiles": []
+    },
+    "ModMenu::@6890427a1f51a3e7e1df": {
+      "artifactName": "ModMenu",
+      "abi": "armeabi-v7a",
+      "output": "C:\\Users\\Admin\\AndroidStudioProjects\\ImGuiUnityTouch\\app\\build\\intermediates\\cxx\\Debug\\63v57563\\obj\\armeabi-v7a\\libModMenu.so",
+      "runtimeFiles": []
+    },
+    "misc_helper::@a0115f2deda87980e48f": {
+      "artifactName": "misc_helper",
+      "abi": "armeabi-v7a",
+      "output": "C:\\Users\\Admin\\AndroidStudioProjects\\ImGuiUnityTouch\\app\\.cxx\\Debug\\63v57563\\armeabi-v7a\\dobby\\external\\misc-helper\\libmisc_helper.a",
+      "runtimeFiles": []
+    }
+  }
+}
