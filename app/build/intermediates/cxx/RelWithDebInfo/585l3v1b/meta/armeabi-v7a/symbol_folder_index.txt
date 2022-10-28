@@ -1,1 +1,0 @@
-C:\Users\Admin\AndroidStudioProjects\ImGuiUnityTouch\app\build\intermediates\cxx\RelWithDebInfo\585l3v1b\obj\armeabi-v7a

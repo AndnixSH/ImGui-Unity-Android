@@ -1,8 +1,0 @@
-id.akn.imguiunitytouch.app-pngs-0 C:\Users\Admin\AndroidStudioProjects\ImGuiUnityTouch\app\build\generated\res\pngs\debug
-id.akn.imguiunitytouch.app-resValues-1 C:\Users\Admin\AndroidStudioProjects\ImGuiUnityTouch\app\build\generated\res\resValues\debug
-id.akn.imguiunitytouch.app-rs-2 C:\Users\Admin\AndroidStudioProjects\ImGuiUnityTouch\app\build\generated\res\rs\debug
-id.akn.imguiunitytouch.app-packageDebugResources-3 C:\Users\Admin\AndroidStudioProjects\ImGuiUnityTouch\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
-id.akn.imguiunitytouch.app-packageDebugResources-4 C:\Users\Admin\AndroidStudioProjects\ImGuiUnityTouch\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
-id.akn.imguiunitytouch.app-merged_res-5 C:\Users\Admin\AndroidStudioProjects\ImGuiUnityTouch\app\build\intermediates\merged_res\debug
-id.akn.imguiunitytouch.app-debug-6 C:\Users\Admin\AndroidStudioProjects\ImGuiUnityTouch\app\src\debug\res
-id.akn.imguiunitytouch.app-main-7 C:\Users\Admin\AndroidStudioProjects\ImGuiUnityTouch\app\src\main\res
